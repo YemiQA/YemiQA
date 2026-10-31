@@ -21,7 +21,7 @@ My approach to quality engineering emphasizes clean code, comprehensive edge-cas
 
 ### 🚀 Featured QA Automation Projects
 
-#### 🔹 [Enterprise E-Commerce Automation Suite](https://github.com)
+#### 🔹 [Enterprise E-Commerce Automation Suite]([https://github.com](https://github.com/YemiQA/ecommerce-playwright-automation))
 A production-ready UI automation framework built to handle complex user journeys, state persistence, and parallel execution.
 *   **Architecture:** Page Object Model (POM) using **TypeScript** and **Playwright**.
 *   **Key Implementations:** Integrated dynamic test data generation, multi-environment configurations, and automated visual regression testing.
