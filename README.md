@@ -21,11 +21,11 @@ My approach to quality engineering emphasizes clean code, comprehensive edge-cas
 
 ### 🚀 Featured QA Automation Projects
 
-#### 🔹 [Enterprise E-Commerce Automation Suite](https://github.com/YemiQA/ecommerce-playwright-automation)
-A production-ready UI automation framework built to handle complex user journeys, state persistence, and parallel execution.
-*   **Architecture:** Page Object Model (POM) using **TypeScript** and **Playwright**.
-*   **Key Implementations:** Integrated dynamic test data generation, multi-environment configurations, and automated visual regression testing.
-*   **CI/CD:** Configured execution on **GitHub Actions** triggered on pull requests, publishing HTML test reports directly to artifacts.
+#### 🔹 [E-Commerce Playwright Automation Framework](https://github.com/YemiQA/ecommerce-playwright-automation)
+An automation framework for automationexercise.com covering both UI and API testing, built to handle end-to-end user journeys across multiple browsers.
+*   **Architecture:** Using **Playwright** with **TypeScript** on **Node.js**, using shared helper functions for reusable test steps.
+*   **Key Implementations:** Integrated dynamic test data generation and cross-browser execution on Chromium, Firefox and WebKit.
+*   **Reporting:** Documented a Chromium-only failure found during testing as a bug report with evidence screenshots.
 
 #### 🔹 [RESTful API Test Automation Engine](https://github.com)
 A data-driven automation framework designed to comprehensively validate microservice endpoints under varying loads and payloads.
