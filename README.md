@@ -27,6 +27,12 @@ An automation framework for automationexercise.com covering both UI and API test
 *   **Key Implementations:** Integrated dynamic test data generation and cross-browser execution on Chromium, Firefox and WebKit.
 *   **Reporting:** Documented a Chromium-only failure found during testing as a bug report with evidence screenshots.
 
+#### 🔹 [SauceDemo UI E-Commerce Test Suite](https://github.com/YemiQA/saucedemo-playwright-tests)
+An end-to-end UI automation framework designed to validate the user journeys, shopping cart workflows, and checkout processes of the Swag Labs website.
+*   **Architecture:** Built using **JavaScript**, **Playwright Test**, and **Page Object Model (POM)** pattern.
+*   **Key Implementations:** Created reusable page objects, added automated item sorting tests, saved login states to skip repeated logins, and used data-driven test files.
+*   **Reporting:** Integrated Playwright HTML Reports and Trace Viewer to easily debug failed steps, screenshots, and network logs.
+
 #### 🔹 [RESTful API Test Automation Engine](https://github.com)
 A data-driven automation framework designed to comprehensively validate microservice endpoints under varying loads and payloads.
 *   **Architecture:** Built using **Java**, **REST Assured**, and **TestNG**.
