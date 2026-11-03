@@ -33,17 +33,6 @@ An end-to-end UI automation framework designed to validate the user journeys, sh
 *   **Key Implementations:** Created reusable page objects, added automated item sorting tests, saved login states to skip repeated logins, and used data-driven test files.
 *   **Reporting:** Integrated Playwright HTML Reports and Trace Viewer to easily debug failed steps, screenshots, and network logs.
 
-#### 🔹 [RESTful API Test Automation Engine](https://github.com)
-A data-driven automation framework designed to comprehensively validate microservice endpoints under varying loads and payloads.
-*   **Architecture:** Built using **Java**, **REST Assured**, and **TestNG**.
-*   **Key Implementations:** Implemented custom JSON schema validation, automated bearer token authentication handling, and parameterized data provider injection.
-*   **Reporting:** Integrated Allure Reports for rich visual breakdowns of assertion failures and payload histories.
-
-#### 🔹 [Behavior-Driven Development (BDD) Framework](https://github.com)
-A cross-browser automated testing repository bridging business requirements and technical verification.
-*   **Architecture:** **Java**, **Selenium WebDriver**, and **Cucumber (Gherkin)**.
-*   **Key Implementations:** Developed abstract step definitions to maximize reusability, implemented robust explicit wait mechanics to eliminate test flakiness, and managed test hooks for clean teardowns.
-
 ---
 
 ### 🧠 Core Quality Engineering Practices
@@ -56,5 +45,5 @@ A cross-browser automated testing repository bridging business requirements and 
 
 ### 📫 Connect with Me
 
-*   **LinkedIn:** [/in/olayemi-ojo](https://linkedin.com)
+*   **LinkedIn:** [/in/olayemi-ojo](https://uk.linkedin.com/in/olayemi-ojo)
 *   **Email:** [OlayemiOjo001@gmail.com](mailto:OlayemiOjo001@gmail.com)
