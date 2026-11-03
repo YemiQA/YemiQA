@@ -8,12 +8,12 @@ I am a **QA Automation Engineer** with a strong background in manual testing and
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | Python, Java, JavaScript, TypeScript, PyCharm |
-| **Automation Frameworks** | Playwright, Serenity BDD, Selenium WebDriver |
-| **API Testing** | Postman, REST Assured, ReadyAPI |
-| **CI/CD & DevOps** | GitHub Actions, Git |
-| **Test Management & Collaboration** | Jira, Micro Focus ALM, ConnectALL, Confluence |
-| **Methodologies** | BDD (Cucumber), TDD, Agile/Scrum, Exploratory Testing |
+| **Languages & IDEs** | `Python`, `Java`, `JavaScript`, `TypeScript`, `PyCharm` |
+| **Automation Frameworks** | `Playwright`, `Serenity BDD`, `Selenium WebDriver` |
+| **API & Cloud Testing** | `BrowserStack`, `Postman`, `REST Assured`, `ReadyAPI` |
+| **CI/CD & Version Control** | `GitHub Actions`, `Git` |
+| **Design & Collaboration** | `Figma`, `Jira`, `Micro Focus ALM`, `ConnectALL`, `Confluence` |
+| **Methodologies & Practices** | `BDD (Cucumber)`, `TDD`, `Agile/Scrum`, `Exploratory Testing` |
 
 ---
 
@@ -37,7 +37,7 @@ An end-to-end UI automation framework designed to validate the user journeys, sh
 
 *   **Strategic Test Planning:** I design clean test strategies that combine focused exploratory testing with scalable automation. My projects demonstrate my progression from basic scripting to implementing the Page Object Model (POM) for modular, maintainable test suites.
 *   **Defect Lifecycle Mastery:** Drawing from a strong manual testing background, I write highly technical, reproducible bug reports. I isolate the root cause and provide logs, network payloads, and stack traces to eliminate developer back-and-forth.
-*   **Flakiness Mitigation:** I focus on building stable automation runs by architecting resilient element locators (prioritizing data-attributes) and implementing dynamic waits instead of hardcoded sleeps.
+*   **Flakiness Mitigation:** I focus on building stable automation runs by architecting resilient element locators (prioritising data-attributes) and implementing dynamic waits instead of hardcoded sleeps.
 
 ---
 
@@ -47,7 +47,6 @@ An end-to-end UI automation framework designed to validate the user journeys, sh
 | :--- | :--- | :--- |
 | **ISTQB Certified Tester Foundation Level** | iSQI | 2025 |
 | **ISTQB Testing with Generative AI** | iSQI | 2025 |
-
 
 ---
 
